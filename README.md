@@ -1,0 +1,1 @@
+A website for renting equipment. Customer users can rent, return or extend the duration of said equipment. Customers can also can view their rent history. Admin users can add and remove equipment. Both users can conduct a detailed search of equipment. This website was developed with HTML,CSS,Bootstrap, PHP and MYSQL with an emphasis on OOP concepts. 
